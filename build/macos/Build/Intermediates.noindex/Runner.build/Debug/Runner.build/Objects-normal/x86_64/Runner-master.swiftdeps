@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "9a1a92567da5ba281853eeb8aa848932366c22d4c906cd6a3183548b7eafb970"
+build_start_time: [1634299144, 317137956]
+build_end_time: [1634299156, 887785911]
+inputs:
+  "/Users/grahamaustin/Sites/flutter/diary_webapp_course/diary_webapp/macos/Flutter/GeneratedPluginRegistrant.swift": [1634299121, 180082321]
+  "/Users/grahamaustin/Sites/flutter/diary_webapp_course/diary_webapp/macos/Runner/AppDelegate.swift": [1631546814, 767440795]
+  "/Users/grahamaustin/Sites/flutter/diary_webapp_course/diary_webapp/macos/Runner/MainFlutterWindow.swift": [1631546814, 769959449]
